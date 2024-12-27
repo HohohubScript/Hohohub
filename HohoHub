@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BananaHubScript/BananaHub/refs/heads/main/BananaHub',true))()
